@@ -77,3 +77,8 @@ Run only one side with `npm run dev:frontend` or `npm run dev:backend`.
 | `npm run install:all` | Install all dependencies |
 | `npm run clean` | Clean build output |
 | `npm test` | Run tests |
+
+
+---
+
+<sub>Made by [tanaytejush](https://github.com/tanaytejush)</sub>
